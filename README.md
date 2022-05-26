@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kennytech19
 - 👀 I’m interested in Data Science, Data analytics and Machine Learning
-- 🌱 I’m currently learning Data analytics
+- 🌱 I can help you to work on any projects
 - 💞️ I’m looking to collaborate on any projects in Data analytics and data science
 - 📫 How to reach me jimetoiyanukenny@gmail.com
 
